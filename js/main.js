@@ -1,4 +1,5 @@
 //thisismainjs
+/*asdasd*/
 (function () {
     "use strict";
 
