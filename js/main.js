@@ -1,3 +1,4 @@
+//thisismainjs
 (function () {
     "use strict";
 
